@@ -34,16 +34,16 @@ $ ./configure
 $ make
 ```
 
-PlexComskip/PlexComskip.conf
+PlexComskip/PlexComskip.conf - 
 Edit the first three path enteries to your local directory structure.
 
-You can use use my comskip.ini or leave it to the default. I have configured my comskip.ini to detect North American OTA commercials on FOX, ABC, NBC, CBS. It's not perfect but works pretty dang good.
+You can use use my comskip.ini within /ComSkipPlex/comskip.ini or leave it to the default. I have configured my comskip.ini to detect North American OTA commercials on FOX, ABC, NBC, CBS. It's not perfect but works pretty dang good.
 
 Specify abolute path to post processing script with Plex Media Server DVR settings.
 
 Settings related to DVRs associated with your Plex Media Server. You can access these under Settings > Server > Live TV & DVR in Plex Web App.
 
-Within the DRV Settings navigate to the Postprocessing Script option.
+Within the DRV Settings navigate to the Postprocessing Script option. Path to script file must be the full path.
 
 /home/'user name'/ComSkipPlex/PlexComskip.sh
 
