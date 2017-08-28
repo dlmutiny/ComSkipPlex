@@ -43,7 +43,7 @@ Specify abolute path to post processing script with Plex Media Server DVR settin
 
 Settings related to DVRs associated with your Plex Media Server. You can access these under Settings > Server > Live TV & DVR in Plex Web App.
 
-Withing DRV Settings navigate to the Postprocessing Script option.
+Within the DRV Settings navigate to the Postprocessing Script option.
 
 /home/'user name'/ComSkipPlex/PlexComskip.sh
 
